@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamshrivastava18" alt="shivamshrivastava18" /></a> </p>
 
-- 🔭 I’m currently working on [AI Coding Mentor](https://github.com/ShivamShrivastava18/Coding_mentor)
+- 🔭 I’m currently working on [Strudel Agent](https://github.com/ShivamShrivastava18/strudel_agent)
 
 - 🌱 I’m currently learning **Selenium**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shrivastav.shivam1803@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ex88qeeoKBvzciO_pWSwWYzHoQZIVwdU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VgiYET9OpThappDPP9mqUEGlKppxIQGf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
