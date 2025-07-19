@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamshrivastava18&label=Profile%20views&color=0e75b6&style=flat" alt="shivamshrivastava18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamshrivastava18" alt="shivamshrivastava18" /></a> </p>
+- 🧑‍💻 [Website](https://shivam-shrivastava.vercel.app/)
 
 - 🔭 I’m currently working on [Strudel Agent](https://github.com/ShivamShrivastava18/strudel_agent)
 
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **shrivastav.shivam1803@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VgiYET9OpThappDPP9mqUEGlKppxIQGf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1h1i5ywPsLsehhd8zIIkF_xC7AdV_za8Z/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
