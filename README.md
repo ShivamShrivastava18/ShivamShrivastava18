@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shrivastav.shivam1803@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1h1i5ywPsLsehhd8zIIkF_xC7AdV_za8Z/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1hdOqt7sPzv1h8zEt1SfXQFix4YepBxRz/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
