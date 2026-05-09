@@ -7,7 +7,7 @@
 
 - 🧑‍💻 Checkout my [Portfolio](https://shivam-shrivastava.vercel.app/)
 
-- 🔭 I’m currently working on [Strudel Agent](https://github.com/ShivamShrivastava18/strudel_agent)
+- 🔭 I’m currently working on [Moozix](https://github.com/ShivamShrivastava18/moozix)
 
 - 🌱 I’m currently learning **Selenium**
 
